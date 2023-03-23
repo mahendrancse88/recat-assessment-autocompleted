@@ -1,4 +1,4 @@
-# Maybank Assignment React
+# Maybank assessment React
 
 This project uses ReactJS with a custom boilerplate.
 
